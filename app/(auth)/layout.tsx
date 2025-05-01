@@ -14,7 +14,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               height={42}
               className="h-auto"
             />
-            <h1 className="text-5xl text-white font-semibold">StashRoom</h1>
+            <h1 className="text-5xl text-white font-semibold -ml-8">StashRoom</h1>
           </div>
           <div className="text-white">
             <h1 className="h1">Manage your files the best way</h1>
