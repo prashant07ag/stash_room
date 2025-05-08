@@ -208,7 +208,7 @@ export async function getTotalSpaceUsed() {
 
     const totalSpace = {
       image: { size: 0, latestDate: "" },
-      document: { size: 0, latestDate: "" },
+      documents: { size: 0, latestDate: "" },
       video: { size: 0, latestDate: "" },
       audio: { size: 0, latestDate: "" },
       other: { size: 0, latestDate: "" },
